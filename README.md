@@ -1,11 +1,11 @@
 # `entrylevel1.js`
 Welcome to here. I work on projects like Blob Battles, "Octane", and more to come. 
 # `progress.cs`
-## Battles-JS, TBRPG-JS and Octane: 
-Still trying to figure something out. (5%)
+## Battles-JS
+Getting somewhere, but not at a quick pace. (10%)
+## All other projects
+On hold until further notice.
 
-## Battles-CPP (PC native app, houses the BATTLES-* Ports): 
-How does this even work?! (0%)
 
 <!---
 nt-miles/nt-miles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
